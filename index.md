@@ -10,32 +10,77 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+# Jornada Acadêmica
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## **Engenharia de Produção Mecânica (Incompleto)**
+Mar, 2015 - Dez, 2017 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Universidade Federal de Santa Catarina (UFSC)
+PIBIC Realizado em 2016 sobre Modularização dentro da Industria Automobilística
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
+## **Engenharia de Produção**
+Mar 2018 – Junho 2021
+
+Pontifícia Universidade Católica do Paraná (PUC PR)
+TCC realizado sobre mineração de processo aplicada em análise de dados e gestão de processos e resultados com aplicação em dados reais.
+
+## **Especialização em Data Science e Big Data (Em Progresso)**
+Mar 2023 - Jun 2024 
+
+Universidade Federal do Paraná (UFPR)
+Curso sendo realizado no momento, com o objetivo de desenvolver conhecimento e métodos que possam ser utilizados na área industrial.
+
+* * *
+
+# Jornada Profissional
+
+## **Estagiário em Supply Chain**, [Aker Solutions](https://www.akersolutions.com/) - Brasil     
+Oct 2019 – Jul 2021
+
+_Suporte com o desenvolvimento e manutenção de diversos relatórios de controle da operação e performance da área de compras._
+
+_Participante e principal desenvolvedor de soluções para melhoria de processos._
+
+## **BI Analyst e Data Focal point**, Aker Solutions - Brasil
+Jul 2021 – Oct 2022
+
+_Membro da Célula estratégica e multidisciplinar de Competitividade e Melhoria que integra os diversos departamentos da empresa, , atuando como Focal point em dados e confiabilidade de informação para tomadas de decisão e execução de negócios convertidos com clientes estratégicos._
+
+_Digital Citizen e Focal point de KPI's da Área de Compras e Responsável por melhorias de performance, implementando soluções digitais e automatização de processos- chave._
+
+## **BI Analyst**, Aker Solutions - Brasil
+Oct 2022 – present
+
+_Digital Citizen e Focal point de KPI's da Área de Compras e referência em em BI do departamento de a Supply Chain. Atual responsável pelo desenvolvimento de 3 projetos de melhorias de processo e gestão de performance._
+
+_Desenvolvendo novos meios de análise de desempenho dentro da área de compras e pós compras._
+
+
+* * *
+
+# Skills
+
+## Hard Skills
+*   Excel            =>      Avançado
+*   PowerBi          =>      Avançado
+*   Microsoft Office =>      Intermediário
+*   VBA Script       =>      Avançado
+*   SAP Script       =>      Intermediário
+*   Python           =>      Iniciante
+*   R                =>      Iniciante
+*   Bash             =>      Iniciante
+
+
+## Soft Skills & Linguás
+*   Lógica
+*   Senso de Urgência
+*   Inglês Avançado
+
+
 
 #### Header 4
 
