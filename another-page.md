@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Projetos de Melhoria
+description: Descrição dos Projetos de Melhoria feitos
 ---
 
 ## Welcome to another page

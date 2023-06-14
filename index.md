@@ -81,7 +81,7 @@ _Desenvolvendo novos meios de análise de desempenho dentro da área de compras 
 
 Além da minha jornada Profissional, também criei algumas páginas para discutir sobre alguns pontos adicionais da minha carreira e alguns pontos pessoais:
 
-*   Projetos de Melhoria
+*   [Projetos de Melhoria](./Projetos_Melhorias.md)
 
 *   Hobbies
 
