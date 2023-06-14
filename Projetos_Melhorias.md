@@ -71,6 +71,8 @@ Todos foram feitos com SAP Script e VBA em uma planilha apenas.
 
 *   [Hobbies](./Hobbies.md)
 
-*   Contatos
+*   [Contatos](./Contatos.md)
 
 *   [De volta para a Página Principal](./)
+
+* * *

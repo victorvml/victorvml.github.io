@@ -6,7 +6,7 @@ description: Um pequeno Insight nos meus Hobbies e como me Ajudaram em Minha Jor
 
 ## Video Game
 
-Já joguei muito video game na minha vida, e tive alguns benefícios:
+Jogando videogame desde 4 anos de idade, consegui identificar os seguinte benefícios:
 
 1. Ajudar no aprendizado e manutenção do meu Inglês.
 
@@ -24,12 +24,19 @@ O RPG de mesa pode ter chegado um pouco mais tarde na minha vida (2019), mas a m
 
 3. Trabalho em Equipe
 
+## Música
+
+Aprendente a tocar violão desdos 13 anos, a música sempre foi um refúgio saudável para momentos estressantes, também como ajudar a organizar estudos.
+
+
 * * *
 
 ## **Quer continuar Explorando? Veja as opções abaixo:**
 
 *   [Projetos de Melhoria](./Projetos_Melhorias.md)
 
-*   Contatos
+*   [Contatos](./Contatos.md)
 
 *   [De volta para a Página Principal](./)
+
+* * *

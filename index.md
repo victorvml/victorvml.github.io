@@ -23,7 +23,7 @@ _TCC realizado sobre mineração de processo aplicada em análise de dados e ges
 ## **Especialização em Data Science e Big Data (Em Progresso)**
 Mar 2023 - Jun 2024 
 
-**Universidade Federal do Paraná (UFPR)**
+**Universidade Federal do Paraná ([UFPR](https://ufpr.br/))**
 
 _Curso sendo realizado no momento, com o objetivo de desenvolver conhecimento e métodos que possam ser utilizados na área industrial._
 
@@ -85,7 +85,7 @@ Além da minha jornada Profissional, também criei algumas páginas para discuti
 
 *   [Hobbies](./Hobbies.md)
 
-*   Contatos
+*   [Contatos](./Contatos.md)
 
 
 * * *
