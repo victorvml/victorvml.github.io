@@ -60,20 +60,20 @@ _Desenvolvendo novos meios de análise de desempenho dentro da área de compras 
 # **Skills**
 
 ## Hard Skills
-*   _Excel            =>      Avançado_
-*   _PowerBi          =>      Avançado_
-*   _Microsoft Office =>      Intermediário_
-*   _VBA Script       =>      Avançado_
-*   _SAP Script       =>      Intermediário_
-*   _Python           =>      Iniciante_
-*   _R                =>      Iniciante_
-*   _Bash             =>      Iniciante_
+*   Excel            =>      Avançado
+*   PowerBi          =>      Avançado
+*   Microsoft Office =>      Intermediário
+*   VBA Script       =>      Avançado
+*   SAP Script       =>      Intermediário
+*   Python           =>      Iniciante
+*   R                =>      Iniciante
+*   Bash             =>      Iniciante
 
 
 ## Soft Skills & Linguas
-*   _Lógica_
-*   _Senso de Urgência_
-*   _Inglês Avançado_
+*   Lógica
+*   Senso de Urgência
+*   Inglês Avançado
 
 * * *
 
@@ -83,7 +83,7 @@ Além da minha jornada Profissional, também criei algumas páginas para discuti
 
 *   [Projetos de Melhoria](./Projetos_Melhorias.md)
 
-*   Hobbies
+*   [Hobbies](./Hobbies.md)
 
 *   Contatos
 

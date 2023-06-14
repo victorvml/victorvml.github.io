@@ -13,6 +13,8 @@ Com o uso de VBA e SAP Script todo o processo foi automatizado, sendo necessári
 
 **O ganho desse projeto foi em torno de 100.000 BRL/ano**
 
+* * *
+
 # **Automatização da Atualização e Fechamento de Ordem de Compras**
 ## Posição: _Estágiário de Supply Chain_
 
@@ -21,6 +23,8 @@ Ao mesmo tempo que estava desenvolvendo o projeto anterior um protótipo para at
 Ajudei em melhorar o código em VBA e SAP Script para que diminuisse regras redundantes e checasse erros para evitar bugs enquanto rodava. Permitindo que fosse rodada em standby.
 
 Ao mesmo Tempo também me foi atribuído a responsabilidade de fechar ordens de compras dos quais os itens já haviam sido entregues. Outra atividade extremamente manual no SAP. Novamente utilizei VBA e SAP Script para criar uma ferramenta que permitiu fazer esse fechamento em segundo plano.
+
+* * *
 
 **Ao total houve um ganho em média de 70.000 BRL/ano**
 
@@ -36,6 +40,8 @@ O projeto ganhou o prêmio de melhor projeto de digitalização (2021-Q1).
 
 **Ao total houve um ganho em média de 180.000 BRL/ano**
 
+* * *
+
 # **Gestão de projeto de desenvolvimento de Solução Digital para confiabilidade e controle de documentação de negócios convertidos com clientes estratégicos**
 ## Posição: _BI Analyst e Data Focal point_
 
@@ -49,6 +55,8 @@ O projeto também ganhou o prêmio de melhor projeto de digitalização (2021-Q4
 
 **Ao total houve um ganho em média de 200.000 BRL/ano**
 
+* * *
+
 # **Automatização dos Relatórios Mensais de KPI's**
 ## Posição: _BI Analyst e Data Focal point_
 
@@ -59,9 +67,9 @@ Todos foram feitos com SAP Script e VBA em uma planilha apenas.
 **Ao total houve um ganho em média de 100.000 BRL/ano**
 
 * * *
-# **Quer continuar Explorando? Veja as opções abaixo:
+## **Quer continuar Explorando? Veja as opções abaixo:**
 
-*   Hobbies
+*   [Hobbies](./Hobbies.md)
 
 *   Contatos
 
