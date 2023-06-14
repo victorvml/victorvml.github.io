@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Victor Mussolin Lopes
+description: Bem vindo/a/e a minha página pessoal, nela você irá poder explorar e entender a minha jornada profissional e acadêmica, também como detalhes mais pessoais. Sinta-se a vontade!
 ---
 
 # Jornada Acadêmica
